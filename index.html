@@ -232,7 +232,10 @@
             })();
         </script>
 
-        <!-- <script>
+       <script>
+            forms[i].removeEventListener("submit", handleFormSubmit, false);
+            // document.removeEventListener("DOMContentLoaded", loaded, false);
+
             const btn = document.getElementById('submit');
 
             btn.addEventListener('click', function handleClick(event) {
@@ -245,7 +248,7 @@
                     input.value = '';
                 });
             });
-        </script> -->
+        </script>
 
 
 
