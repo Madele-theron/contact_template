@@ -32,7 +32,6 @@ To do:
 ### Sources
 * Tutorial on how to submit my HTML form to Gmail & Google Sheets (https://www.youtube.com/watch?v=tqIUQyRCpBA&ab_channel=PerfectCod) 
 * Tutorial on how to reset form after submit button is clicked. (https://bobbyhadz.com/blog/javascript-clear-input-field-after-submit#clear-all-form-fields-after-submitting)
-* Only problem is I am still struggling to use both functions, as the one kicks out the other one, so both do not work simultaneously.
 * Social links at the footer. (https://www.foolishdeveloper.com/2021/09/responsive-footer-design.html)
 
 ### Inspiration
