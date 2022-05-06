@@ -23,11 +23,12 @@ Project is created with:
 
 ### Improvements
 To do:
-* add JavaScript to pojects so that all projects can be viewed as a slideshow.
-* figure out how to use both JavaScript functions for the contact form.
+* add JavaScript to pojects so that all projects can be viewed as a slideshow
+* figure out how to use both JavaScript functions for the contact form
 * add more projects (duh)
-* edit the tab name <title></title> ? (it still didn't change.
+* edit the tab name <title></title> ? (it still didn't change
 * insert image of buy me a coffee logo
+* add media query for monitors width 1000px 
 
 ### Sources
 * Tutorial on how to submit my HTML form to Gmail & Google Sheets (https://www.youtube.com/watch?v=tqIUQyRCpBA&ab_channel=PerfectCod) 
