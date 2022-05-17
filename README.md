@@ -1,4 +1,4 @@
-# contact_template - Personal Portfolio Website
+# Personal Portfolio Website
 
 #### Simple website created with HTML, CSS and JavaScript
 
